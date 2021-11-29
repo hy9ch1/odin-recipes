@@ -1,0 +1,13 @@
+h1 {
+    color: rgb(72, 133, 22);
+    background-color: black;
+    text-align: center;
+    font-size: 45px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+ul {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(0,0,0);
+    background-color: hsla(106, 100%, 74%, 0.85)
+
+}
